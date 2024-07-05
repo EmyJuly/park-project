@@ -1,7 +1,9 @@
-project Car park 
 Car Park Project
 
-• Title: The Design and Implementation for Computer Vision-Based Parking Space Counte • Student Name: IMANE EL IDRISSI • School: ALX-SE Holberton School, COH 16 • Date: 30/06/2024
+• Title: The Design and Implementation for Computer Vision-Based Parking Space Counte 
+• Student Name: IMANE EL IDRISSI
+• School: ALX-SE Holberton School, COH 16
+• Date: 30/06/2024
 
 
 
